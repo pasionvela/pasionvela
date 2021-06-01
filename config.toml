@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://pasionvela.github.io"
 title = "Pasión vela"
 theme = "meghna-hugo"
 #languageCode= "es-Es"

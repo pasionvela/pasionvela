@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/IMG_4505.webp"
+  bg_image : "images/backgrounds/IMG_4505.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Pasión por la vela"
+  content : ""
+  button:
+    enable : true
+    label : "Bienvenidos"
+    link : "#services"

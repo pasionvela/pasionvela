@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/yanez.jpg"
+  bg_image_webp : "images/backgrounds/yanez.webp"
+  title : "Vasta experiencia deportiva"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  button:
+    enable : true
+    label : "Comencemos un proyecto"
+    link : "#contact"

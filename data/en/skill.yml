@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestras calificaciones
+  subtitle : Ex-atletas de Olimpiadas, Juegos Panamericanos y mundiales
+  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Coaching y preparación física
+      percent : 90%
+      
+    # skill item loop
+    - name :  Análisis deportivo
+      percent : 70%
+      
+    # skill item loop
+    - name :  Diseño y planeamiento
+      percent : 80%
+      
+    - name :  Enseñanza técnica
+      percent : 95%
+      
+    # skill item loop
+    - name :  Desarrollo tecnológico
+      percent : 75%

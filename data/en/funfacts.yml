@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/rodriguez_ernesto.jpg"
+  bg_image_webp : "images/backgrounds/rodriguez_ernesto.webp"
+  counter_item:
+    # counter item loop
+    - title : "Número de días que tomó la primera vuelta al mundo"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "1082"
+    
+    # counter item loop
+    - title : "Las medallas olímipicas de Ben Ainslie"
+      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count : "5"
+    
+    # counter item loop
+    - title : "Año que el Finn se diseñó"
+      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      count : "1949"
+    
+    # counter item loop
+    - title : "Tazas de café para investigar esto"
+      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+      count : "250"

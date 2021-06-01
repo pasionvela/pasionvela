@@ -1,0 +1,26 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/470boat.jpg
+  bg_image_webp : images/backgrounds/470boat.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Goofy Goof
+      image : images/client/goofy-face2.jpg
+      image_webp : images/client/goofy-face2.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      
+    # testimonial item loop
+    - name : Goofy Goofy
+      image : images/client/goofy.jpg
+      image_webp : images/client/goofy.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      
+    # testimonial item loop
+    - name : Duck
+      image : images/client/dducky.jpg
+      image_webp : images/client/dducky.webp
+      date : Dec 26, 2018
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
